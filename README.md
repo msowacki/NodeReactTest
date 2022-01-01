@@ -1,0 +1,1 @@
+Typical Node/React welcome home project with GIT repository.
